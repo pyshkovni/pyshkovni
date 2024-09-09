@@ -1,16 +1,39 @@
-## Hi there 👋
+<div id="header" align="center">
+    <h1>Пышков Никита Игоревич</h1>
+    <h3>Преподаватель РАНХиГС</h3>
+</div>
 
-<!--
-**pyshkovni/pyshkovni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+    <a href="Vk-url">
+    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
+  </a>
+  <a href="youtube-url">
+    <img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="telegram-url">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Старший преподаватель кафедры
+* Преподаю университетские курсы по следующим дисциплинам:
+  * программирование
+  * информатика
+  * анализ и визуализация данных
+* Веду научную работу по следующим направлениям:
+  * управление в образовании
+  * инновационные способности фирмы
+  * бизнес-процессы: методология построения и модели оптимизации.
+
+---
+
+### Курсы
+
+| | | |
+|:--:|:--:|:--:|
+| | | |
+| | | |
+
+---
