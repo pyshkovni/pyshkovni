@@ -15,29 +15,6 @@
   </a>
 </div>
 
-### Обо мне
-
-* Старший преподаватель кафедры
-* Преподаю университетские дисциплины:
-  * программирование,
-  * информатика,
-  * анализ и визуализация данных.
-* Веду научную работу по направлениям:
-  * управление в образовании,
-  * инновационные способности фирмы,
-  * бизнес-процессы: методология построения и модели оптимизации.
-* Представляю Yandex Cloud в РАНХиГС
-
-### Инструменты
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
-<img src="img/yandex_cloud_emb.png" title="yandex cloud" width="40" height="40"/>&nbsp;
-<img src="img/datalens_emb.png" title="datalens" width="40" height="40"/>&nbsp;
-
 ---
 
 ### Курсы
@@ -52,3 +29,25 @@
 | [![](img/db_logo_no.png)]() | [![](img/doc_logo_no.png)]() | [![](img/container_logo.png)]() |
 
 ---
+### Инструменты
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
+<img src="img/yandex_cloud_emb.png" title="yandex cloud" width="40" height="40"/>&nbsp;
+<img src="img/datalens_emb.png" title="datalens" width="40" height="40"/>&nbsp;
+
+### Обо мне
+
+* Старший преподаватель кафедры
+* Преподаю университетские дисциплины:
+  * программирование,
+  * информатика,
+  * анализ и визуализация данных.
+* Веду научную работу по направлениям:
+  * управление в образовании,
+  * инновационные способности фирмы,
+  * бизнес-процессы: методология построения и модели оптимизации.
+* Представляю Yandex Cloud в РАНХиГС
