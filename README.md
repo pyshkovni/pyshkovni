@@ -4,13 +4,13 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="Vk-url">
+    <a href="https://vk.com/pyshkovni">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
   </a>
-  <a href="youtube-url">
+  <a href="https://www.youtube.com/channel/UCFl8u5LGFv0UqhfP5whEoVA">
     <img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="telegram-url">
+  <a href="[telegram-url](https://t.me/pyshkovni)">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
