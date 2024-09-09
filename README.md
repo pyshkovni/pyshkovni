@@ -36,6 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 <img src="img/yandex_cloud_emb.png" title="yandex cloud" width="40" height="40"/>&nbsp;
+<img src="img/datalens_emb.png" title="datalens" width="40" height="40"/>&nbsp;
 
 ---
 
@@ -43,10 +44,11 @@
 
 | | | |
 |:--:|:--:|:--:|
-| Python base | SQL-query basics | _Что такое Git? (в разработке)_ |
-| ![](img/python_course.jpg) | ![](img/sql_course.jpg) | ![](img/git_course.jpg) |
-| Работа с ERP/CRM | [Технологии и методы программирования](https://github.com/pyshkovni/timp-course) | Анализ и визуализация данных |
-| ![]() | ![]() | ![]() |
-| Базы данных | Экономическая информатика | |
+| [Курс Python base](https://github.com/pyshkovni/python_base) | [Курс SQL-query basics](https://github.com/pyshkovni/sql_query_basics) | _Что такое Git? (в разработке)_ |
+| [![](img/python_logo.png)](https://github.com/pyshkovni/python_base) | [![](img/sql_logo_no.png)](https://github.com/pyshkovni/sql_query_basics) | ![](img/git_logo_no.png) |
+| [Работа с ERP/CRM]() | [Технологии и методы программирования](https://github.com/pyshkovni/timp-course) | Анализ и визуализация данных |
+| [![](img/erp_logo_no.png)](https://github.com/pyshkovni/crm-cases) | [![](img/cs_logo.png)](https://github.com/pyshkovni/timp-course) | [![](img/data_logo_no.png)]() |
+| [Базы данных]() | [Экономическая информатика]() | |
+| [![](img/db_logo_no.png)]() | [![](img/doc_logo_no.png)]() | |
 
 ---
