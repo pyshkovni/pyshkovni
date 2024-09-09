@@ -44,11 +44,11 @@
 
 | | | |
 |:--:|:--:|:--:|
-| [Курс Python base](https://github.com/pyshkovni/python_base) | [Курс SQL-query basics](https://github.com/pyshkovni/sql_query_basics) | _Что такое Git? (в разработке)_ |
-| [![](img/python_logo.png)](https://github.com/pyshkovni/python_base) | [![](img/sql_logo_no.png)](https://github.com/pyshkovni/sql_query_basics) | ![](img/git_logo_no.png) |
-| [Работа с ERP/CRM]() | [Технологии и методы программирования](https://github.com/pyshkovni/timp-course) | Анализ и визуализация данных |
+| [Курс Python base](https://github.com/pyshkovni/python_base) | [Курс SQL-query basics](https://github.com/pyshkovni/sql_query_basics) | Что такое Git? |
+| [![](img/python_logo.png)](https://github.com/pyshkovni/python_base) | [![](img/sql_logo_no.png)](https://github.com/pyshkovni/sql_query_basics) | ![](img/git_logo.png) |
+| [Работа с ERP/CRM]() | [Технологии и методы программирования (1 семестр)](https://github.com/pyshkovni/timp-course) | Анализ и визуализация данных |
 | [![](img/erp_logo_no.png)](https://github.com/pyshkovni/crm-cases) | [![](img/cs_logo.png)](https://github.com/pyshkovni/timp-course) | [![](img/data_logo_no.png)]() |
-| [Базы данных]() | [Экономическая информатика]() | |
-| [![](img/db_logo_no.png)]() | [![](img/doc_logo_no.png)]() | |
+| [Базы данных]() | [Экономическая информатика]() | [Технологии и методы программирования (2 семестр)]() |
+| [![](img/db_logo_no.png)]() | [![](img/doc_logo_no.png)]() | [![](img/container_logo.png)]() |
 
 ---
