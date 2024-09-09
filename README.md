@@ -21,8 +21,8 @@
 
 | | | |
 |:--:|:--:|:--:|
-| [Курс Python base](https://github.com/pyshkovni/python_base) | [Курс SQL-query basics](https://github.com/pyshkovni/sql_query_basics) | Что такое Git? |
-| [![](img/python_logo.png)](https://github.com/pyshkovni/python_base) | [![](img/sql_logo_no.png)](https://github.com/pyshkovni/sql_query_basics) | ![](img/git_logo.png) |
+| [Курс Python base](https://pyshkovni.github.io/python_base/) | [Курс SQL-query basics](https://pyshkovni.github.io/sql_query_basics/) | Что такое Git? |
+| [![](img/python_logo.png)](https://pyshkovni.github.io/python_base/) | [![](img/sql_logo_no.png)](https://pyshkovni.github.io/sql_query_basics/) | ![](img/git_logo.png) |
 | [Работа с ERP/CRM]() | [Технологии и методы программирования (1 семестр)](https://github.com/pyshkovni/timp-course) | Анализ и визуализация данных |
 | [![](img/erp_logo_no.png)](https://github.com/pyshkovni/crm-cases) | [![](img/cs_logo.png)](https://github.com/pyshkovni/timp-course) | [![](img/data_logo_no.png)]() |
 | [Базы данных]() | [Экономическая информатика]() | [Технологии и методы программирования (2 семестр)]() |
