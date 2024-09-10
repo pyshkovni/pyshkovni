@@ -4,13 +4,13 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="https://vk.com/pyshkovni">
+  <a href="https://vk.com/pyshkovni">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
   </a>
   <a href="https://www.youtube.com/channel/UCFl8u5LGFv0UqhfP5whEoVA">
     <img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="[telegram-url](https://t.me/pyshkovni)">
+  <a href="https://t.me/pyshkovni">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
@@ -33,11 +33,15 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="anaconda" width="40" height="40"/>&nbsp;
+<img src="img/aiogram_emb.png" title="aiogram" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="img/excel_emb.png" title="excel" width="40" height="40"/>&nbsp;
+<img src="img/datalens_emb.png" title="datalens" width="40" height="40"/>&nbsp;
+<img src="img/erp_emb.png" title="1C: Enterprise" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 <img src="img/yandex_cloud_emb.png" title="yandex cloud" width="40" height="40"/>&nbsp;
-<img src="img/datalens_emb.png" title="datalens" width="40" height="40"/>&nbsp;
 
 ### Обо мне
 
