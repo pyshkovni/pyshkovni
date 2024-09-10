@@ -21,12 +21,12 @@
 
 | | | |
 |:--:|:--:|:--:|
-| [Курс Python base](https://pyshkovni.github.io/python_base/) | [Курс SQL-query basics](https://pyshkovni.github.io/sql_query_basics/) | Что такое Git? |
-| [![](img/python_logo.png)](https://pyshkovni.github.io/python_base/) | [![](img/sql_logo_no.png)](https://pyshkovni.github.io/sql_query_basics/) | ![](img/git_logo.png) |
-| [Работа с ERP/CRM](https://github.com/pyshkovni/crm-cases) | [Технологии и методы программирования (1 семестр)](https://github.com/pyshkovni/timp-course) | Анализ и визуализация данных |
-| [![](img/erp_logo_no.png)](https://github.com/pyshkovni/crm-cases) | [![](img/cs_logo.png)](https://github.com/pyshkovni/timp-course) | [![](img/data_logo_no.png)]() |
-| [Базы данных]() | [Экономическая информатика]() | [Технологии и методы программирования (2 семестр)]() |
-| [![](img/db_logo_no.png)]() | [![](img/doc_logo_no.png)]() | [![](img/container_logo.png)]() |
+| [Курс Python base](https://pyshkovni.github.io/python_base/) | [Курс SQL-query basics](https://pyshkovni.github.io/sql_query_basics/) | [Что такое Git?](https://github.com/pyshkovni/git_course) |
+| [![](img/python_logo.png)](https://pyshkovni.github.io/python_base/) | [![](img/sql_logo_no.png)](https://pyshkovni.github.io/sql_query_basics/) | [![](img/git_logo.png)](https://github.com/pyshkovni/git_course) |
+| [Работа с ERP/CRM](https://github.com/pyshkovni/crm-cases) | [Технологии и методы программирования (1 семестр)](https://github.com/pyshkovni/timp1-cases) | [Анализ и визуализация данных](https://github.com/pyshkovni/data-visualization-cases) |
+| [![](img/erp_logo_no.png)](https://github.com/pyshkovni/crm-cases) | [![](img/cs_logo.png)](https://github.com/pyshkovni/timp1-cases) | [![](img/data_logo_no.png)](https://github.com/pyshkovni/data-visualization-cases) |
+| [Базы данных](https://github.com/pyshkovni/db-cases) | [Экономическая информатика](https://github.com/pyshkovni/office-cases) | [Технологии и методы программирования (2 семестр)](https://github.com/pyshkovni/timp2-cases) |
+| [![](img/db_logo_no.png)](https://github.com/pyshkovni/db-cases) | [![](img/doc_logo_no.png)](https://github.com/pyshkovni/office-cases) | [![](img/container_logo.png)](https://github.com/pyshkovni/timp2-cases) |
 
 ---
 ### Инструменты
