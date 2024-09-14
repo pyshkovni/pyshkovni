@@ -1,17 +1,23 @@
-<div id="header" align="center">
-    <h1>Пышков Никита Игоревич</h1>
-    <h3>Профиль преподавателя РАНХиГС</h3>
-</div>
+<p align="center">
+  <a href="https://github.com/pyshkovni">
+    <img src="./img/Name.png" alt="Пышков Никита Игоревич" /></a>
+</p>
+<!-- 5ed891 -->
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=5ED891&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C+%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F+%D0%A0%D0%90%D0%9D%D0%A5%D0%B8%D0%93%D0%A1" alt="Typing SVG" /></a>
+</p>
+
+<!-- Social icons section -->
 <div id="socials" align="center">
   <a href="https://vk.com/pyshkovni">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
+    <img src="https://img.shields.io/badge/Vk-5ed891?style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
   </a>
   <a href="https://www.youtube.com/channel/UCFl8u5LGFv0UqhfP5whEoVA">
-    <img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-5ed891?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://t.me/pyshkovni">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-5ed891?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
