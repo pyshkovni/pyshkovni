@@ -21,43 +21,63 @@
   </a>
 </div>
 
----
+<details open> 
+  <summary><h2>📚 Курсы</h2></summary>
+  <p align="left">
+    <a href="https://github.com/pyshkovni/python_base"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=python_base&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false" alt="python_base">
+    </a>
+    <a href="https://github.com/pyshkovni/sql_query_basics"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=sql_query_basics&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false"alt="sql_query_basics">
+    </a>
+    <a href="https://github.com/pyshkovni/git_course"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=git_course&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false" alt="git_cours">
+    </a>
+    <a href="https://github.com/pyshkovni/erp-crm-cases
+"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=erp-crm-cases&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false" alt="erp-crm-cases">
+    </a>
+    <a href="https://github.com/pyshkovni/timp1-cases
+"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=timp1-cases&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false" alt="timp1-cases">
+    </a>
+    <a href="https://github.com/pyshkovni/timp2-cases
+"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=timp2-cases&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false" alt="timp2-cases">
+    </a>
+    <a href="https://github.com/pyshkovni/db-cases
+"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=db-cases&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false" alt="db-cases">
+    </a>
+    <a href="https://github.com/pyshkovni/data-visualization-cases
+"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=data-visualization-cases&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false" alt="data-visualization-cases">
+    </a>
+    <a href="https://github.com/pyshkovni/office-cases
+"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=office-cases&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false" alt="office-cases">
+    </a>
 
-### Курсы
+</details>
 
-| | | |
-|:--:|:--:|:--:|
-| [Курс Python base](https://pyshkovni.github.io/python_base/) | [Курс SQL-query basics](https://pyshkovni.github.io/sql_query_basics/) | [Что такое Git?](https://github.com/pyshkovni/git_course) |
-| [![](img/python_logo.png)](https://pyshkovni.github.io/python_base/) | [![](img/sql_logo_no.png)](https://pyshkovni.github.io/sql_query_basics/) | [![](img/git_logo.png)](https://github.com/pyshkovni/git_course) |
-| [Работа с ERP/CRM](https://github.com/pyshkovni/crm-cases) | [Технологии и методы программирования (1 семестр)](https://github.com/pyshkovni/timp1-cases) | [Анализ и визуализация данных](https://github.com/pyshkovni/data-visualization-cases) |
-| [![](img/erp_logo_no.png)](https://github.com/pyshkovni/crm-cases) | [![](img/cs_logo.png)](https://github.com/pyshkovni/timp1-cases) | [![](img/data_logo_no.png)](https://github.com/pyshkovni/data-visualization-cases) |
-| [Базы данных](https://github.com/pyshkovni/db-cases) | [Экономическая информатика](https://github.com/pyshkovni/office-cases) | [Технологии и методы программирования (2 семестр)](https://github.com/pyshkovni/timp2-cases) |
-| [![](img/db_logo_no.png)](https://github.com/pyshkovni/db-cases) | [![](img/doc_logo_no.png)](https://github.com/pyshkovni/office-cases) | [![](img/container_logo.png)](https://github.com/pyshkovni/timp2-cases) |
+<details> 
+  <summary><h2>📐 Инструменты</h2></summary>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="anaconda" width="40" height="40"/>&nbsp;
+  <img src="img/aiogram_emb.png" title="aiogram" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+  <img src="img/excel_emb.png" title="excel" width="40" height="40"/>&nbsp;
+  <img src="img/datalens_emb.png" title="datalens" width="40" height="40"/>&nbsp;
+  <img src="img/erp_emb.png" title="1C: Enterprise" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
+  <img src="img/yandex_cloud_emb.png" title="yandex cloud" width="40" height="40"/>&nbsp;
+</details>
 
----
-### Инструменты
+<details> 
+  <summary><h2>👨🏻‍🦱 Обо мне</h2></summary>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="anaconda" width="40" height="40"/>&nbsp;
-<img src="img/aiogram_emb.png" title="aiogram" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="img/excel_emb.png" title="excel" width="40" height="40"/>&nbsp;
-<img src="img/datalens_emb.png" title="datalens" width="40" height="40"/>&nbsp;
-<img src="img/erp_emb.png" title="1C: Enterprise" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
-<img src="img/yandex_cloud_emb.png" title="yandex cloud" width="40" height="40"/>&nbsp;
+  * Старший преподаватель кафедры
+  * Преподаю университетские дисциплины:
+    * программирование,
+    * информатика,
+    * анализ и визуализация данных.
+  * Веду научную работу по направлениям:
+    * управление в образовании,
+    * инновационные способности фирмы,
+    * бизнес-процессы: методология построения и модели оптимизации.
+  * Представляю Yandex Cloud в РАНХиГС
 
-### Обо мне
-
-* Старший преподаватель кафедры
-* Преподаю университетские дисциплины:
-  * программирование,
-  * информатика,
-  * анализ и визуализация данных.
-* Веду научную работу по направлениям:
-  * управление в образовании,
-  * инновационные способности фирмы,
-  * бизнес-процессы: методология построения и модели оптимизации.
-* Представляю Yandex Cloud в РАНХиГС
+</details>
