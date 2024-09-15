@@ -28,18 +28,18 @@
     </a>
     <a href="https://pyshkovni.github.io/sql-query-basics/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=sql-query-basics&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=false"alt="sql_query_basics">
     </a>
-    <a href="https://github.com/pyshkovni/git-course"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=git-course&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=true" alt="git_cours">
+    <a href="https://github.com/pyshkovni/git-course"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=git-course&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=false" alt="git_cours">
     </a>
     <a href="https://github.com/pyshkovni/economic-information-systems"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=economic-information-systems&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=false" alt="erp-crm-cases">
     </a>
     <a href="https://github.com/pyshkovni/programming-technologies-and-methods-1
-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=programming-technologies-and-methods-1&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=true" alt="timp1-cases">
+"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=programming-technologies-and-methods-1&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=false" alt="timp1-cases">
     </a>
     <a href="https://github.com/pyshkovni/programming-technologies-and-methods-2
-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=programming-technologies-and-methods-2&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=true" alt="timp2-cases">
+"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=programming-technologies-and-methods-2&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=false" alt="timp2-cases">
     </a>
     <a href="https://github.com/pyshkovni/databases-information-support
-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=databases-information-support&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=true" alt="db-cases">
+"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=databases-information-support&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=false" alt="db-cases">
     </a>
     <a href="https://github.com/pyshkovni/data-analysis-and-visualization
 "><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=data-analysis-and-visualization&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=false" alt="data-visualization-cases">
