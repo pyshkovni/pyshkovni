@@ -28,7 +28,7 @@
     </a>
     <a href="https://pyshkovni.github.io/sql-query-basics/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=sql-query-basics&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=true"alt="sql_query_basics">
     </a>
-    <a href="https://github.com/pyshkovni/lectures-and-cases"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=git-course&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=true" alt="git_cours">
+    <a href="https://github.com/pyshkovni/lectures-and-cases"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pyshkovni&repo=git-course&theme=react&bg_color=1F222E&title_color=5ed891&hide_border=true&icon_color=5ed891&show_icons=false&show_description=true" alt="lectures-and-cases">
     </a>
 
 </details>
